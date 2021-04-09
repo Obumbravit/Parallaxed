@@ -1,0 +1,11 @@
+Package: com.obumbravit.parallaxed
+Name: Parallaxed
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker, com.obumbravit.obvpr
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Scrolling wallpaper behind your icons.
+Maintainer: Obumbravit
+Author: Obumbravit
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Parallaxed.png
+Depiction: https://Obumbravit.github.io/0SRepo/depictions/index.html?p=com.obumbravit.parallaxed
